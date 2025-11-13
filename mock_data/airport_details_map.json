@@ -1,0 +1,142 @@
+{
+  "JFK": {
+    "name": "John F. Kennedy International Airport",
+    "country": "USA",
+    "city": "New York",
+    "latitude": 40.6413,
+    "longitude": -73.7781
+  },
+  "LAX": {
+    "name": "Los Angeles International Airport",
+    "country": "USA",
+    "city": "Los Angeles",
+    "latitude": 33.9416,
+    "longitude": -118.4085
+  },
+  "ORD": {
+    "name": "O'Hare International Airport",
+    "country": "USA",
+    "city": "Chicago",
+    "latitude": 41.9742,
+    "longitude": -87.9073
+  },
+  "ATL": {
+    "name": "Hartsfield-Jackson Atlanta International Airport",
+    "country": "USA",
+    "city": "Atlanta",
+    "latitude": 33.6407,
+    "longitude": -84.4277
+  },
+  "SFO": {
+    "name": "San Francisco International Airport",
+    "country": "USA",
+    "city": "San Francisco",
+    "latitude": 37.7749,
+    "longitude": -122.4194
+  },
+  "MIA": {
+    "name": "Miami International Airport",
+    "country": "USA",
+    "city": "Miami",
+    "latitude": 25.7959,
+    "longitude": -80.287
+  },
+  "BOS": {
+    "name": "Boston Logan International Airport",
+    "country": "USA",
+    "city": "Boston",
+    "latitude": 42.3656,
+    "longitude": -71.0096
+  },
+  "DFW": {
+    "name": "Dallas/Fort Worth International Airport",
+    "country": "USA",
+    "city": "Dallas",
+    "latitude": 32.8998,
+    "longitude": -97.0403
+  },
+  "SEA": {
+    "name": "Seattle-Tacoma International Airport",
+    "country": "USA",
+    "city": "Seattle",
+    "latitude": 47.4502,
+    "longitude": -122.3088
+  },
+  "CDG": {
+    "name": "Charles de Gaulle Airport",
+    "country": "France",
+    "city": "Paris",
+    "latitude": 49.0097,
+    "longitude": 2.5479
+  },
+  "LHR": {
+    "name": "London Heathrow Airport",
+    "country": "UK",
+    "city": "London",
+    "latitude": 51.47,
+    "longitude": -0.4543
+  },
+  "FRA": {
+    "name": "Frankfurt Airport",
+    "country": "Germany",
+    "city": "Frankfurt",
+    "latitude": 50.0379,
+    "longitude": 8.5622
+  },
+  "AMS": {
+    "name": "Amsterdam Airport Schiphol",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "latitude": 52.3105,
+    "longitude": 4.7683
+  },
+  "FCO": {
+    "name": "Rome Fiumicino Airport",
+    "country": "Italy",
+    "city": "Rome",
+    "latitude": 41.8045,
+    "longitude": 12.2508
+  },
+  "MAD": {
+    "name": "Madrid-Barajas Airport",
+    "country": "Spain",
+    "city": "Madrid",
+    "latitude": 40.4839,
+    "longitude": -3.568
+  },
+  "BCN": {
+    "name": "Barcelona-El Prat Airport",
+    "country": "Spain",
+    "city": "Barcelona",
+    "latitude": 41.2974,
+    "longitude": 2.0833
+  },
+  "MUC": {
+    "name": "Munich Airport",
+    "country": "Germany",
+    "city": "Munich",
+    "latitude": 48.3537,
+    "longitude": 11.775
+  },
+  "ZRH": {
+    "name": "Zurich Airport",
+    "country": "Switzerland",
+    "city": "Zurich",
+    "latitude": 47.4647,
+    "longitude": 8.5492
+  },
+  "VIE": {
+    "name": "Vienna International Airport",
+    "country": "Austria",
+    "city": "Vienna",
+    "latitude": 48.1102,
+    "longitude": 16.5697
+  },
+  "DUB": {
+    "name": "Dublin Airport",
+    "country": "Ireland",
+    "city": "Dublin",
+    "latitude": 53.4264,
+    "longitude": -6.2499
+  }
+}
